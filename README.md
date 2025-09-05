@@ -111,7 +111,7 @@ streamlit
 
 Clone the repo:
 
-git clone https://github.com/your-username/student-performance-prediction.git
+git clone https://github.com/EsraaMahmoud34/Elevo-internship-task1.git
 cd student-performance-prediction
 
 🎯 Results
